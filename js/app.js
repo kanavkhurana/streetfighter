@@ -31,6 +31,8 @@ $(document).ready(function() {
   	$('.ryu-ready').show();
   	// ryu goes back to his ready position
   });
+  /* TO DO - try putting the sound in the beginning and the animation
+  */
   $(document).keydown(function(event){
   	if ( event.which == 88 ) {
    		//event.preventDefault();
