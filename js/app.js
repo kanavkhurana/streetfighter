@@ -1,4 +1,5 @@
 $(document).ready(function() {
+ alert('hello!');
  $('.ryu').mouseenter(function() {
     //alert('mouse entered .ryu div');
     $('.ryu-still').hide();
